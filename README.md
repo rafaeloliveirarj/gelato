@@ -1,2 +1,2 @@
-# gelart
+# Gelato
 Protótipo do site GetArt
